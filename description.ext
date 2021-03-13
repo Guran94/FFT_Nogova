@@ -1,0 +1,227 @@
+class CfgIdentities
+{
+  class Player1
+  {
+    name = "Ed Wallsh";
+    face = "Face41";
+    glasses = "Not";
+    speaker = "Peter";
+    pitch = 0.97;
+  };
+  class Player2
+  {
+    name = "Jason Twombly";
+    face = "Face9";
+    glasses = "Not";
+    speaker = "Jonah";
+    pitch = 1.05;
+  };
+  class Player3
+  {
+    name = "Steven Johnson";
+    face = "Face33";
+    glasses = "Not";
+    speaker = "Tom";
+    pitch = 0.97;
+  };
+  class Player4
+  {
+    name = "Paul Hatton";
+    face = "Face8";
+    glasses = "Spectacles";
+    speaker = "Rob";
+    pitch = 1.08;
+  };
+  class Svoboda
+  {
+    name = "Frantisek Svoboda";
+    face = "Face15";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 0.95;
+  };
+  class Jana
+  {
+    name = "Jana Svobodova";
+    face = "Lada";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.10;
+  };
+  class Jirka
+  {
+    name = "Jirka Prochazka";
+    face = "Face4";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Lipsky
+  {
+    name = "Emanuel Lipsky";
+    face = "Face5";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Daladier
+  {
+    name = "Edouard Daladier";
+    face = "Face16";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Kriegel
+  {
+    name = "Marek Kriegel";
+    face = "Face14";
+    glasses = "Spectacles";
+    speaker = "Marc";
+    pitch = 1.00;
+  };
+  class Livanokh
+  {
+    name = "Alexander Livanokh";
+    face = "Face10";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Summers
+  {
+    name = "Stanley Summers";
+    face = "Face49";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Journalist
+  {
+    name = "John Simpson";
+    face = "Face47";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Frolov
+  {
+    name = "Makariy Frolov";
+    face = "Face46";
+    glasses = "Sunglasses";
+    speaker = "Rob";
+    pitch = 1.171655;
+  };
+  class Jack
+  {
+    name = "Jack Gill";
+    face = "Face39";
+    glasses = "Not";
+    speaker = "Patrick";
+    pitch = 1.02;
+  };
+  class Mike
+  {
+    name = "Mike Sullivan";
+    face = "Face46";
+    glasses = "Spectacles";
+    speaker = "Tom";
+    pitch = 1.00;
+  };
+  class Johnson
+  {
+    name = "Steven Johnson";
+    face = "Face33";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Shaposhnikov
+  {
+    name = "Stas Shaposhnikov";
+    face = "Face36";
+    glasses = "Not";
+    speaker = "Rich";
+	pitch = 0.948077;
+  };
+  class Dostoevsky
+  {
+    name = "Mikhail Dostoevsky";
+    face = "Face21";
+    glasses = "None";
+    speaker = "Tom";
+    pitch = 0.979981;
+  };
+  class Volkov
+  {
+    name = "Vladimir Volkov";
+    face = "Face18";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Epgayd
+  {
+    name = "James Epgayd";
+    face = "Face2";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Astier
+  {
+    name = "Gaston Astier";
+    face = "Face6";
+    glasses = "None";
+    speaker = "Tom";
+    pitch = 0.923914;
+  };
+  class Muday
+  {
+    name = "Derek Muday";
+    face = "Face40";
+    glasses = "Not";
+    speaker = "Greg";
+    pitch = 0.97;
+  };
+  class Bennett
+  {
+    name = "Roy Bennett";
+    face = "Face34";
+    glasses = "None";
+    speaker = "Ted";
+    pitch = 1.02;
+  };
+  class Lemontov
+  {
+    name = "Grigory Lemontov";
+    face = "Face27";
+    glasses = "None";
+    speaker = "Rob";
+    pitch = 1.016017;
+  };
+  class Mognuchkov
+  {
+    name = "Boris Mognuchkov";
+    face = "Face50";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Blonski
+  {
+    name = "Nikolai Blonski";
+    face = "Face35";
+    glasses = "Not";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+  class Rashiv
+  {
+    name = "Vadim Rashiv";
+    face = "Face52";
+    glasses = "Spectacles";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
+};

@@ -1,0 +1,34 @@
+onLoadIntro="$STRM_ONLOAD_INTRO";
+onLoadIntroTime = false;
+
+class RscTitles
+{
+ titles[] = {"fft_logo"};
+
+
+  class fft_logo
+   {
+    idd = -1;
+    movingEnable = 0;
+    duration = 5;
+    fadein = 1;
+    name = "fft_logo";
+    controls[] = {"fft_logo"};
+
+     class fft_logo
+      {
+       type = 0;
+       idc = -1;
+       style = 48;
+       colorBackground[] = {1,1,1,1};
+       text = "fft_logo.jpg";
+       colorText[] = {1,1,1,1};
+       font = "AudreysHandI48";
+       size = 1;
+       x = 0;
+       y = 0.1;
+       w = 1;
+       h = 0.8;
+      };
+  };
+};

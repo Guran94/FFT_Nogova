@@ -1,0 +1,74 @@
+LANGUAGE,English,Czech,Comment
+
+STRM_ONLOAD_INTRO,"Nogova, 1979","Nogova, 1979",loading screen
+
+
+STRM_x00v01,"Good morning, Jana","",franz
+STRM_x00v02,"Good morning, dad.","",jana
+STRM_x00v03,You woke up earlier today. Did you sleep well?,"",franz
+STRM_x00v04,"Yes, I just wanted to see the sun. It's beautiful weather this morning","",franz
+STRM_x00v05,"Sure, it is.","",franz
+STRM_x00v06,"Look, that's Jirka.","",jana
+STRM_x00v07,"Good morning, Jana, hello, Franz.","",jirka
+STRM_x00v08,Hi.,"",franz
+STRM_x00v09,"Hello, Jirka.","",jana
+STRM_x00v10,Where you're going?,"",franz
+STRM_x00v11,"Just take some rest and refuel.\nI go through the city, so I wonder if you would take there","",jirka
+STRM_x00v12,"Thanks, Jirka. I have to take care of my tractor.","",franz
+STRM_x00v13,"And what about you, Jana? Do you need something in Lipany?","",jirka
+STRM_x00v14,"No, thanks, Jirka. Today I only wish to spend my time with myself and help daddy a little bit...","",jana
+STRM_x00v15,"Ok, I've just asked. Have a nice day...","",jirka
+STRM_x00v16,"I think he likes you and you like him as well.","",franz
+STRM_x00v17,"He is a good boy, but I do not want to be hurry.\nThere's no need to rush fate, because playing hard to get never worked for me either.","",jana
+STRM_x00v18,"I know what you're thinking, Jana...\nHave some breakfast and relax I go repair that tractor...","",franz
+
+STRM_x00v19,"Dad, Dad!","",jana
+STRM_x00v20,"What's happening?","",franz
+STRM_x00v21,"It's here again.","",franz
+
+STRM_x00v22,"It's again.","",franz
+
+STRM_x00v23,"Fuck, what's wrong? Jirka, turn on the radio!","",marek
+STRM_x00v24,"Citizens, today 18th of May, the Soviet army had entered our territory and thereby ended our long-time independence.","Občané, dnes 18. srpna vstoupilo vojsko Sovětského svazu na naše území a ukončila tak naši dlouholetou samostatnost.",news
+STRM_x00v25,"What is clear is that at least 1000 Soviet soldiers were taken part in this millitary coup\nand that's why governament in Lipany ordered give up and wait till feedback of NATO.","",news
+STRM_x00v26,"The democratic government of president Honus was immediately forced to abdicate and the opposition comminnist party with Emanuel Lipsky in charge have taken power and the Nogovian Socialist Republic has arised.","",news
+STRM_x00v27,"Your former democratic regime has already ended and instead the door of the new socialistic future had opened.","",lipsky
+STRM_x00v28,"The western ideology is nothing more, than a poison and the Soviet Union is a cure.\nLong life the Soviet Union","Západní ideoligie kapitalismu není nic jiného, než jed a Sovětský svaz je lék.\nAť žije Sovětský svaz!",lipsky
+STRM_x00v29,"The US Army base located not far from the Nogovian shore stays calm and meanwhile did absolutely nothing against the Soviet invasion.","",news
+STRM_x00v30,"The White House is aware of the Nogovian crisis seriousness,\nhowever the United States will no interfere with national matters on Nogova.","",summers
+
+STRM_x00v31,"These allowed Lipsky's regime to have an unlimited power and let built a secret police department [Statni bezpecnostni sbor] SBS.","",news
+STRM_x00v32,"Which serves for local purposes, like arresting dissatisfied citizens, who do not agree with his regime.","",news
+STRM_x00v33,"Hands behind back, now!","Ruce za záda! Dělej!",sbs
+STRM_x00v34,"Fuckers!","Svině!",jirka
+STRM_x00v35,"Bacha!","Look out!",jirka
+STRM_x00v36,"Disperse! Or we will open fire!","Rozejděte se! Nebo budem střílet!",frolov
+STRM_x00v37,"Disperse, now!","Rozejděte se! Hned!",franz
+STRM_x00v38,"Jiri Prochazka?","Jiří Procházka?",sbs
+STRM_x00v39,"Yes?","Ano?",jirka
+STRM_x00v40,"You are under arrest for taking part on the forbiden demostration.\nPut your hands on the bonnet.","",sbs
+STRM_x00v41,"What please?","",jirka
+STRM_x00v42,"I said, put your hands on the bonnet! Are you deaf or what?","",sbs
+
+STRM_x00v43,"Dad! Oh my god...","",jana
+STRM_x00v44,"What is it? What's wrong?","",franz
+STRM_x00v45,"Dad... Jirka... they, they arrested Jirka...","",jana
+STRM_x00v46,"What? Fuck! Lipsky already goes after us. The freedom is over although it's only the beginning.\nThe bad times come as well as 11 years before in Czechoslovakia.","",franz
+STRM_x00v47,"But we cannot give up, not this time!","",franz
+STRM_x00v48,"Dad... what do you want to do?","",jana
+STRM_x00v49,"We cann't wait no longer. If we want a freedom, we have to immediately fight.","",franz
+STRM_x00v50,"What? Dad, you cannot fight against Russians!","",jana
+STRM_x00v51,"We must not allow them to seize our country! Not again! Do you not remember what happened to Tomáš anymore?","",franz
+STRM_x00v52,"Due to his death we'd to emigrate from Czechoslavakia after all! From our homeland the Russians took us!","",franz
+STRM_x00v53,"Dad, please, don't speak about Tomáš...","",jana
+STRM_x00v54,"The Russians killed him, Jana! The Warsaw pact! The communist party and they have come again! And that fucking traitor Lipsky!","",franz
+STRM_x00v55,"They extend their power of influence and if we will do nothing,\nit can very likely turn out the same like in our homeland!","",franz
+STRM_x00v56,"But Americans...","",jana
+STRM_x00v57,"Americans do nothing, if we do... They are feard of Russians, but we don't, we don't, Jana!","",franz
+STRM_x00v58,"Please, I want you to stay here...\nTry speak with noone and do not look for me or SBS finds you. I'll change our history and bring all world right here to our island.","",franz
+STRM_x00v59,"Everyone will be looking for our land on the map and oust the communist, once and for all.","",franz
+
+
+STRM_x00v60,"Gentlemen, I'm glad you're here. Today everything's gonna to start.","",franz
+STRM_x00v61,"We are prepare to fight for freedom!","",marek
+STRM_x00v62,"Long live free Nogova!","",franz

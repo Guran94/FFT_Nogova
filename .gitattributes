@@ -1,0 +1,2 @@
+*.sqs linguist-language=SQF
+*.csv linguist-detectable=true

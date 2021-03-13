@@ -1,0 +1,42 @@
+LANGUAGE,"English","Czech","Comment"
+
+
+
+STRCC_0,"Prologue","--- Úvod ---","Name of the mission"
+STRCC_1,"--- Chapter I ---","--- Kapitola I. ---","Name of the mission"
+STRCN_01,"West Wind","Západní vítr","Name of the mission"
+STRCN_02,"Behind enemy lines","Za nepřátelskou linií","Name of the mission"
+STRCN_03,"Friends in needs","Spojenci v nouzi","Name of the mission"
+
+STRCC_2,"--- Chapter II ---","--- Kapitola II. ---","Name of the mission"
+STRCN_04,"Invasion","Invaze","Name of the mission"
+STRCN_05,"Tanks move","Tanky se pohnuly","Name of the mission"
+STRCN_06,"Cooperation","Partyzání","Name of the mission"
+STRCN_07,"Combined arms","Spojené síly","Name of the mission"
+
+STRCC_3,"--- Chapter III ---","--- Kapitola III. ---","Name of the mission"
+STRCN_08,"Retreat","Ústup","Name of the mission"
+STRCN_09,"Crossroads","Na rozcestí","Name of the mission"
+STRCN_10a,"From hell to freedom","Z pekla na svobodu","Name of the mission"
+STRCN_10b,"New blood","Nová krev","Name of the mission"
+
+STRCC_4,"--- Chapter IV ---","--- Kapitola IV. ---","Name of the mission"
+STRCN_11,"Unexpected twist","Nečekanž zvrat","Name of the mission"
+STRCN_12,"Top secret","Přísně tajné","Name of the mission"
+
+
+
+
+
+STRC_yes,"Pane, ano, pane!","Sir, yes sir!",",all"
+
+STRCA_AwayPlayer1,"WALLSH, DIDN'T YOU ACTUALLY MENTION WHERE YOU'RE FLYING? TURN YOUR MACHINE AND HOLD YOUR ORDER!","WALLSHI, NEVŠIML JSTE SI NÁHODOU, KAM LETÍTE? OTOČTE TU MAŠINU A DRŽTE SE ROZKAZŮ!","papa"
+STRCA_AwayPlayer2,"TWOMBLY WHAT YOU'RE THINKING YOU'RE DOING? GET IMMEDIATELY BACK TO YOUR SQUAD!","TWOMBLY, CO SI MYSLÍTE, ŽE DĚLÁTE? VRAŤTE SE OKAMŽITĚ KE SVÉ SKUPINĚ!",",papa"
+STRCA_AwayPlayer3,"Fuck, where am I. I should go back to my mission.","Do prdele, kde to jsem? Měl bych se držet plánu mise.","steve"
+STRCA_AwayPlayer4,"HATTON, DON'T YOU GO WRONG DIRECTION? DO YOU NEED A NAVIGATION TO YOUR DEVICE, OR WHAT? STOP YOUR VEHICLE AND LOOK AT YOUR MAP.","HATTONE, NEJEDETE ŠPATNÝM SMĚREM? POTŘEBUJETE NAVIGACI, NEBO CO? ZASTAVTE SE A PODÍVEJTE SE DO MAPY","papa"
+
+STRCT_01,"Mission completed","Mise splněna","Text"
+STRCT_02,"Mission failed","Mise byla neúspěšná","Text"
+
+STRCM_01,"Start","Počáteční pozice","marker"
+STRCM_02,"Enemy territory","Nepřátelské území","marker"
