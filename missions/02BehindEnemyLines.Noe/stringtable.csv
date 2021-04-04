@@ -1,0 +1,45 @@
+LANGUAGE,English,Czech,Comment
+
+STRM_ONLOAD_MISSION,Shoted down,Sestřelen,loading screen
+
+STRM_hint1,"Find any civilians.",,hint
+STRM_hint2,"Shoot them!",,hint
+STRM_hint3,"Follow Jana.",,hint
+
+STRM_02Mv01,"Go after him, go!",,novotny
+STRM_02Mv02,"Police, stop!",,police
+STRM_02Mv03,"My communication is fucked and on top of this I'd lost my fucking map.\nI should find the nearest village where I've got better chance to hide.",,ed
+
+STRM_02Mv04,"You, lady... please I need help.",,ed
+STRM_02Mv05,"What? Who... who are you?",,jana
+STRM_02Mv06,"American, who else? You cannot recognize my uniform, or what?",,ed
+STRM_02Mv07,"Of course I can, I was just caught by surprise,\nthat' all, you don't have to speak with me like that!",,jana
+STRM_02Mv08,"Ehm... sorry, mad'am. I... I can see you speak english... Can you help me, please?",,ed
+STRM_02Mv09,"The police is already going... come on, hide inside...",,jana
+
+STRM_02Mv10,"SBS, lady... We saw an american pilot running right this way.\nWe have to search through your flat if he doesn't hide here. Out of our way, mada'am.",,police
+
+STRM_02Mv11,"It was tight... thank you, American. Follow me, let's get out of here.",,jana
+STRM_02Mv12,"Wait, I do not want you to get into trouble, it's not your war...",,ed
+STRM_02Mv13,"You're wrong, American. I already should leave earlier... Come on, I'll take you to the rebels.",,jana
+STRM_02Mv14,"Do you know, where they are?",,ed
+STRM_02Mv15,"Soldiers are coming! Jana, get out of here, now! I will abstain them!",,civil
+STRM_02Mv16,"Come on, we're losing our time!",,jana
+
+STRM_02Mv17,"To be honest I'm as surprised as you were as you saw me.\nYou can shooting, hold weapon, speak english as well and at last you know where the rebels are.\nTell me who you really are?",,ed
+STRM_02Mv18,"Look, my name is Jana Svobodova. My father is the leader of the rebelion, he used to fight in the second war.\nThat's all I say, the rest is gonna to tell you himself.",,jana
+STRM_02Mv19,"Impressive. Lieteunenat Edward Walker Walsh. Nice to meet you, Jana and please, call me Ed.",,ed
+STRM_02Mv20,"Nice to meet you, Ed. Please keep runnin' we are almost there.",,jana
+
+STRM_02Mv21,"Hello? Is anybody here?",,ed
+STRM_02Mv22,"Looks like there is noone left. I must go further.",,ed
+
+STRM_02Mv23,"Better to go by walk. They would find me sooner, than I would notice.",,ed
+
+STRM_02Mv24,"Those motherfuckers have a quite good arsenal in here. It might come in hand.",,ed
+
+STRM_02Mr01,"FIREFLY TOWER. THIS IS THUNDER. CAN YOU HEAR ME? OVER.",,ed
+STRM_02Mr02,"FIREFLY TOWER. THIS IS THUNDER. CAN YOU HEAR ME? ANSWER ME PLEAASE!",,ed
+
+
+STRM_m1,Crash place,Místo sestřelu,marker

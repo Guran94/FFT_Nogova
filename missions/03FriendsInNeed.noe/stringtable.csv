@@ -1,0 +1,83 @@
+LANGUAGE,English,Czech,Comment
+
+STRM_ONLOAD_INTRO,Somewhere on Nogova,Kdesi na Nogově,loading screen
+STRM_ONLOAD_MISSION,Part of the resistance,Součást hnutí odporu,loading screen
+
+STRM_radio1,"Pick up me!",Pošlete člun!,radio
+
+
+STRM_03Iv01,"Jana, what are you doing here? And... American?",,marek
+STRM_03Iv02,"Hello, Marek. You know very well I always wanted to join father and Ed helped me.",,jana
+STRM_03Iv03,"Hello, sir. Rather she helped me, I owned her my life. Please can you help me to get back to my HQ?",,ed
+STRM_03Iv04,"You're asking the wrong person, American. Follow me, I'll take you for our commander.\nJana, father is not gonna be enthusiastic about his.",,marek
+STRM_03Iv05,"I have decided, Marek. Lead the way.",,jana
+
+STRM_03Iv06,"Fanda. You've got a visit.",,marek
+STRM_03Iv07,"What? Jana? I can't believe my eyes! And who's this?",,franz
+STRM_03Iv08,"Dad. sorry, but a cannot be without you. You left me alone in our house and thought I would be sutisfied?\nYou're the only one I have dad and????????????????????????????????",,jana
+STRM_03Iv09,"My godness, of course, an American pilot. When pigs fly, don't them?",,franz
+STRM_03Iv10,"Ehm... sorry?",,ed
+STRM_03Iv11,"I'm not really happy...",,franz
+STRM_03Iv12,"Fanda, we all are on the same ship.",,marek
+STRM_03Iv13,"Of course... come with me, American. Let's talk in my tent and Jana? Take off the weapon, it doesn§t suit you.",,franz
+STRM_03Iv14,"Don't worry, he'll be ok.",,marek
+
+STRM_03Iv15,"I thank you very much sir you took me among your numbers.",,ed
+STRM_03Iv16,"We're not enemies, American and I know who you are, your bombing heard all island.\nFinally your government did something make, although after a long period.",,franz
+STRM_03Iv17,"Yeah, it just remains to wait till the Russians will be withdrawing.",,ed
+STRM_03Iv18,"Hahaha... you think so? Do you really think, that Lipsky and Soviets are afraid of you?\nLipsky is supported from Moscow and it never gives up! You have to fight, Americans!",,franz
+STRM_03Iv19,"Leave it up to politics, sir. Do you really want to solve the political situation with me? Don't you rather want to ask the White House personally?",,ed
+STRM_03Iv20,"And do you really want our help? Or quarrel with me?",,franz
+STRM_03Iv21,"I... I'm so sorry, sir.",,ed
+STRM_03Iv22,"Listen to me, boy. Noone wanted this resolution of war, however you have to understand our nation.\nWe all are migrants of Czechoslovakia, ordinary people who relive the Soviet occupation.",,franz
+STRM_03Iv23,"The year of 1968 had learned us.\nNow the folk of Nogova is well educated,\nwe can speak english, we can fight and unlike Washington we have no fear.",,franz
+STRM_03Iv24,"Although you cannot influence dicitions of your politics, as well as our land.\nUse our radio communication right there to create contact with your HQ.",,franz
+STRM_03Iv25,"Great! I... thank you again sir!",,ed
+
+STRM_03Iv26,"Firefly tower, this is Thunder, can you hear me? Over?",,ed
+STRM_03Iv27,"Thunder? Is that you? And are you ok?",,hq
+
+STRM_03Iv28,"You think you brought a gurdian angel, Jana? We have to relocate immediately, we're too long here and SBS could follow you.\nLet's build a camp in mountains. Marek order to move.",,franz
+STRM_03Iv29,"Right, Franz",,marek
+
+STRM_03Iv30,"I've got it!",,ed
+
+STRM_03Iv31,"Have you reached the connection.",,franz
+STRM_03Iv32,"Yes, but they can't pick me up here, it's too dangerous, Russians and police are eveyrwhere.",,ed
+STRM_03Iv33,"Then what did they suggest?",,jana
+STRM_03Iv34,"????????????????????????????",,ed
+STRM_03Iv35,"Listen carefully American. We must replace our camp. I'm going to help you to reach to your base, but do for me a favor if you can.",,franz
+STRM_03Iv36,"Of course, sir. What ever you want.",,ed
+STRM_03Iv37,"We go to the mountains, north-east part of the island, where we split up.\nYour forces must strike over there and do not ask why, just do it, alright?",,franz
+STRM_03Iv38,"Mountains, north-east... alright then.",,ed
+STRM_03Iv39,"Marek is gonna to give our uniform to you to feel more comfartable in combat, than in a pilot suit.",,franz
+STRM_03Iv40,"I appreciate your help, Czechs.",,ed
+STRM_03Iv41,"Marek, take your squad and accompany our american friend and call me Franz, American.",,franz
+STRM_03Iv42,"Edward Walsh, but call me Ed.",,ed
+
+STRM_03Iv43,"You look really good, Ed.",,jana
+STRM_03Iv44,"Thanks, Jana. Look I would like to thank you and here is a thing I want you to know about me, you know I...",,ed
+STRM_03Iv45,"American, get in! Time to go!",,marek
+STRM_03Iv46,"You're gonna tell me later. Good luck, Ed, we will seeing each other again.",,jana
+
+
+
+STRM_03Mv01,"What's up, American? Is your new suit fit for you?",,marek
+STRM_03Mv02,"Definetely, commander. It's a great honor for me to serve in your members,\nI feel differently myself, although thanks to your english still as an American.",,ed
+STRM_03Mv03,"",,marek
+
+STRM_03Mr01,"GUYS, I SEE A POLICE BEHIND US.",,driver
+STRM_03Mr02,"DAMNIT I HOPED WE GOT FURTHER. STOP THE TRUCK AND PREPARE.",,marek
+STRM_03Mr03,"HAVE YOU HEARD HIM BOYS? GET OUT OF THE TRUCK AND FIGHT!",,marek
+STRM_03Mr04,"OK. WE WILL HAVE LEAVE THE TRUCK HERE AND GO BY FEET AND STAY ALLERT",,marek
+STRM_03Mr05,"LOOK OUT, RUSSIANS!",,marek
+STRM_03Mr06,"TAKE COVER! THAT'S HIND! GET TO THE FOREST, QUICKLY!",,marek
+STRM_03Mr07,"OK, WE'RE HERE. AMERICAN, THAT'S YOUR TURN, CALL THEM!",,marek
+STRM_03Mr08,"PAPA BEAR, THIS IS FOX. WE ARE IN POSITION, SEND THE BOAT!",,ed
+STRM_03Mr09,"COPY THAT, FOX SIX. HOLD ON THERE. SWORDFISH WILL BE THERE IN FIVE MINUTES, PAPA BEAR OUT.",,papa
+STRM_03Mr10,"FOX SIX, GET INM HURRY! WE NEED TO GET OUT OF HERE!",,boat
+STRM_03Mr11,"GUYS, THANK YOU SO MUCH FOR YOUR HELP. I PROMISE I'LL DO MY BEST AND WE ALL FIND A WAY TO PAY YOU BACK.",,ed
+STRM_03Mr12,"YOU'RE WELCOME, AMERICAN. THAT WAS A PIECE OF CAKE, SEE YOU SOON. OUT.",,marek
+
+
+STRM_m1,Crash place,Místo sestřelu,marker

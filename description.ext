@@ -80,6 +80,14 @@ class CfgIdentities
     speaker = "Marc";
     pitch = 1.00;
   };
+  class Novotny
+  {
+    name = "Vaclav Novotny";
+    face = "Face17";
+    glasses = "Sunglasses";
+    speaker = "Adam";
+    pitch = 1.00;
+  };
   class Livanokh
   {
     name = "Alexander Livanokh";
@@ -135,14 +143,6 @@ class CfgIdentities
     glasses = "Not";
     speaker = "Adam";
     pitch = 1.00;
-  };
-  class Shaposhnikov
-  {
-    name = "Stas Shaposhnikov";
-    face = "Face36";
-    glasses = "Not";
-    speaker = "Rich";
-	pitch = 0.948077;
   };
   class Dostoevsky
   {
@@ -215,6 +215,14 @@ class CfgIdentities
     glasses = "Not";
     speaker = "Adam";
     pitch = 1.00;
+  };
+  class Shaposhnikov
+  {
+    name = "Stas Shaposhnikov";
+    face = "Face36";
+    glasses = "Not";
+    speaker = "Rich";
+	  pitch = 0.948077;
   };
   class Rashiv
   {

@@ -2,28 +2,41 @@ LANGUAGE,"English","Czech","Comment"
 
 
 
-STRCC_0,"Prologue","--- Úvod ---","Name of the mission"
+STRCC_0,"--- Prologue ---","--- Úvod ---","Name of the mission"
 STRCC_1,"--- Chapter I ---","--- Kapitola I. ---","Name of the mission"
 STRCN_01,"West Wind","Západní vítr","Name of the mission"
 STRCN_02,"Behind enemy lines","Za nepřátelskou linií","Name of the mission"
-STRCN_03,"Friends in needs","Spojenci v nouzi","Name of the mission"
+STRCN_03,"Friends in need","Spojenci v nouzi","Name of the mission"
 
 STRCC_2,"--- Chapter II ---","--- Kapitola II. ---","Name of the mission"
 STRCN_04,"Invasion","Invaze","Name of the mission"
 STRCN_05,"Tanks move","Tanky se pohnuly","Name of the mission"
 STRCN_06,"Cooperation","Partyzání","Name of the mission"
-STRCN_07,"Combined arms","Spojené síly","Name of the mission"
+STRCN_07,"Sky hunter","Postrach nebes","Name of the mission"
+STRCN_08,"Combined arms","Spojené síly","Name of the mission"
 
 STRCC_3,"--- Chapter III ---","--- Kapitola III. ---","Name of the mission"
-STRCN_08,"Retreat","Ústup","Name of the mission"
-STRCN_09,"Crossroads","Na rozcestí","Name of the mission"
-STRCN_10a,"From hell to freedom","Z pekla na svobodu","Name of the mission"
-STRCN_10b,"New blood","Nová krev","Name of the mission"
+STRCN_09,"Retreat","Ústup","Name of the mission"
+STRCN_10,"Crossroad","Na rozcestí","Name of the mission"
+STRCN_11a,"Man of two faces","Muž mnoha tváří","Name of the mission"
+STRCN_11b,"New blood","Nová krev","Name of the mission"
 
 STRCC_4,"--- Chapter IV ---","--- Kapitola IV. ---","Name of the mission"
-STRCN_11,"Unexpected twist","Nečekanž zvrat","Name of the mission"
-STRCN_12,"Top secret","Přísně tajné","Name of the mission"
+STRCN_12,"Defenders","Obránci","Name of the mission"
+STRCN_13,"Top secret","Přísně tajné","Name of the mission"
+STRCN_14,"Counterattack","Protiútok","Name of the mission"
+STRCN_15,"Happy birthday","Dárek k narozeninám","Name of the mission"
+STRCN_16,"Steel elite","Pancéřová elita","Name of the mission"
 
+STRCC_5,"--- Chapter V ---","--- Kapitola V. ---","Name of the mission"
+
+STRCN_17,"Eagle eye","Orlí oko","Name of the mission"
+STRCN_18,"Infiltrator","Infiltrátor","Name of the mission"
+STRCN_19,"Air strike","Letecký útok","Name of the mission"
+STRCN_20,"Reptile","Šmírák","Name of the mission"
+STRCN_21,"War thunder","Válečný dusot","Name of the mission"
+STRCN_22,"Prey and predator","Kořist a predátor","Name of the mission"
+STRCN_23,"Search and destroy","Najít a zničit","Name of the mission"
 
 
 
